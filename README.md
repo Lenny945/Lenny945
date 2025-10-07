@@ -54,7 +54,7 @@ Having studied and lived in Germany, Canada, Ireland, Argentina, and Italy. I br
     <td width="50%">
       <h3 align="center">🧠 Neuronal Simulation</h3>
       <p align="center">
-        <a href="link-to-repo">
+        <a href="https://github.com/Lenny945/izhikevich-neuron-model">
           <img src="https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github"/>
         </a>
       </p>
@@ -65,7 +65,7 @@ Having studied and lived in Germany, Canada, Ireland, Argentina, and Italy. I br
     <td width="50%">
       <h3 align="center">🔬 Causal ML Toolkit (WIP)</h3>
       <p align="center">
-        <a href="https://github.com/Lenny945/izhikevich-neuron-model">
+        <a href="link-to-repo">
           <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge"/>
         </a>
       </p>
